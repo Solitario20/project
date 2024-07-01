@@ -6,4 +6,4 @@ let saat = mesafe/suret
 let result = 'Siz' + ' ' + seher + ' ' + 'şəhərindən' + ' ' + teyinat + ' ' +'şəhərinə olan' + ' ' + mesafe + 'km məsafəni' + suret + 'km\saat lıq maşınla' + saat + ' saata dəf edərsiniz.'
 
 
-document.getElementById('result').innerHTML = Netice
+document.getElementById('result').innerHTML = result
